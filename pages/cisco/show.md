@@ -3,7 +3,7 @@
 > For Cisco network device
 
 
-`show version` or `show ver`
+`show version` or`show ver`
 
 - Display the software and hardware version
 
