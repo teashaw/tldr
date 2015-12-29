@@ -3,7 +3,7 @@
 > For Cisco network device
 
 
-`show version`
+`show version` or `show ver`
 
 - Display the software and hardware version
 
@@ -23,6 +23,6 @@
 
 - Display the state of syslog error and event logging
 
-`show process cpu`
+`show process cpu <history>`
 
 - Displays detailed CPU utilization statistics about the active processes
