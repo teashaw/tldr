@@ -33,3 +33,7 @@
 `show ip route`
 
 - Displays current routing table
+
+`show vlan <brief>`
+
+- Displays current routing table
