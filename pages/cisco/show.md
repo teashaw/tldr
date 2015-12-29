@@ -2,7 +2,6 @@
 
 > For Cisco network device
 
-
 `show version`
 
 - Displays the software and hardware version
@@ -19,7 +18,7 @@
 
 - Displays statistics for the network interfaces
 
-`show ip interface brief`
+`show ip interface <brief>`
 
 - Displays the brief information of each interface
 
