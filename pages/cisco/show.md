@@ -22,7 +22,7 @@
 `show ip interface brief`
 
 - Displays the brief information of each interface
-- 
+
 `show logging`
 
 - Displays the state of syslog error and event logging
