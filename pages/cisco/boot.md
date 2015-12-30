@@ -12,4 +12,4 @@
 
 `boot file-url`
 
-- - To boot the router manually from URL in the ROM monitor mode
+- To boot the router manually from URL in the ROM monitor mode
